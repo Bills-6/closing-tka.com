@@ -1,0 +1,11 @@
+#button-scroll {
+	animation: topBot 2s linear infinite alternate;
+}
+@keyframes topBot {
+	0% {
+		transform: translateY(30px);
+	}
+	100% {
+		transform: translateY(-5px);
+	}
+}
