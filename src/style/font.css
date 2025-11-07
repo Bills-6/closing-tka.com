@@ -17,5 +17,6 @@ p {
 @media screen and (width > 1300px) {
 	p {
 		line-height: 2;
+		text-align: justify;
 	}
 }
